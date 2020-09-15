@@ -1,4 +1,4 @@
 package com.company;
 
-public class SearchTree {
+public class SearchTree implements NodeList{
 }
