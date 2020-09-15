@@ -90,12 +90,7 @@ public class Main {
         tree.removeItem(tree.getRoot());
         tree.traverse(tree.getRoot());
 
-        //just temorarly
-        tree.removeItem(new Node("9"));
-        tree.traverse(tree.getRoot());
-        tree.removeItem(new Node("8"));
-        tree.traverse(tree.getRoot());
-        tree.removeItem(new Node("6"));
+
 
     }
 }
